@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+#prof{
+    padding:10px;
+    border-radius: 0;
+}
+#welcome{
+       background   :linear-gradient(#f55742 0%, #d4d13d 100% ); 
+}
+.line{
+     height: 6px;
+    width:70px;
+    background-color: black;
+    margin: 8px auto;
+}
+p{
+    max-width: 600px;
+    margin: auto;
+    font-size: 20px;
+    line-height: 1.3;
+}
